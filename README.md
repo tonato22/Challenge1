@@ -44,3 +44,8 @@ Este projeto é uma API REST desenvolvida em Java utilizando Spring Boot, que te
 - Tratamento centralizado de erros
 - Uso de DTOs
 - Banco H2 configurado para testes
+
+  ## Nomes:
+- Gustavo Tonato - RM555393
+- Diogo Paquete Weyne - RM558380
+- João Victor De Souza - RM555290
